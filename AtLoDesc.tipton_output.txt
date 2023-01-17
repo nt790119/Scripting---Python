@@ -1,0 +1,72 @@
+
+Athens, OH / Friday - Descriptions: 
+--------------------------------------------------
+Clear
+Sunny
+Clear
+Sunny
+Clear
+Sunny
+Mostly Clear
+Partly Sunny
+Mostly Cloudy then Chance Showers
+
+Logan, OH / Friday - Descriptions: 
+--------------------------------------------------
+Clear
+Sunny
+Clear
+Sunny
+Clear
+Sunny
+Partly Cloudy
+Mostly Cloudy
+Chance Showers
+
+Athens, OH / Saturday - Descriptions: 
+--------------------------------------------------
+Sunny
+Clear
+Sunny
+Clear
+Sunny
+Mostly Clear
+Mostly Cloudy
+Chance Showers
+Chance Showers
+
+Logan, OH / Saturday - Descriptions: 
+--------------------------------------------------
+Sunny
+Clear
+Sunny
+Clear
+Sunny
+Mostly Clear
+Mostly Cloudy
+Chance Showers
+Partly Sunny
+
+Athens, OH / Sunday - Descriptions: 
+--------------------------------------------------
+Sunny
+Clear
+Sunny
+Mostly Clear
+Partly Sunny
+Chance Showers
+Chance Showers
+Partly Cloudy
+Showers Likely
+
+Logan, OH / Sunday - Descriptions: 
+--------------------------------------------------
+Sunny
+Clear
+Sunny
+Increasing Clouds
+Mostly Cloudy
+Chance Showers
+Chance rain
+Chance Showers then Mostly Cloudy
+Showers Likely
