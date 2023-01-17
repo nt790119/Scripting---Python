@@ -1,1 +1,1 @@
-# Scripting---Python
+# Scripting | Python
